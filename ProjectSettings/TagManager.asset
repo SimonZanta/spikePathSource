@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fallArea
+  - startWallTrigger
+  - spikes
+  - TimerStart
+  - chodba
+  - chodba-enabled
+  - chodba-disabled
+  - nextLevel
+  - GM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - wall
+  - spikes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1509728679
+    locked: 0
+  - name: torch
+    uniqueID: 1584212581
+    locked: 0
+  - name: napis
+    uniqueID: 2516660347
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: greyground
+    uniqueID: 2801755107
+    locked: 0
+  - name: sipka
+    uniqueID: 3741872449
+    locked: 0
+  - name: spikes
+    uniqueID: 3599879567
+    locked: 0
+  - name: checkpoint
+    uniqueID: 2577696553
+    locked: 0
+  - name: player
+    uniqueID: 3751935081
+    locked: 0
